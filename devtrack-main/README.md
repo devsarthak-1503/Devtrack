@@ -2,6 +2,8 @@
 
 Welcome to the **DevTrack** project documentation! This guide provides an overview of the DevTrack AI Developer Productivity platform, its features, installation instructions, usage, and contribution guidelines.
 
+Live - https://devtrack-ai-dashboard.vercel.app/
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -31,7 +33,7 @@ To install DevTrack, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/gauravsiwach07/devtrack.git
+    git clone https://github.com/devsarthak-1503/devtrack.git
     ```
 2. Navigate to the project directory:
     ```bash
